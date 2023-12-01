@@ -13,4 +13,4 @@ def mult(v1, v2):
 # print(f'{2} + {2} = {soma(2,2)}')
 # print(f'{2} - {5} = {subtração(2,5)}')
 
-print(f'{2} x {2} = {mult(2,2)}')
+# print(f'{2} x {2} = {mult(2,2)}')
